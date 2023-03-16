@@ -11,6 +11,6 @@ As a focused on and quick-learning Mobile Developer, I look forward working in a
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taingoo&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=taingoo&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taingoo&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taingoo&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=taingoo&icon=5&color=12)](https://visitcount.itsvg.in)
