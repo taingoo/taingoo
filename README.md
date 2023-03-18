@@ -1,4 +1,9 @@
 ## 💫 About Me
+
+<p align="center">
+  <img src='./background.jpg' width='100%"'>
+</p>
+
 <h4>Hi 👋, I'm Tai Ngo</h4>
 As a focused on and quick-learning Mobile Developer, I look forward working in a professional environment where encourages me to succeed and grow my ability and prefer to stick with long-term commitment in order to I can utilize my skills and knowledge appropriately.
 
