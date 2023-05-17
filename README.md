@@ -22,3 +22,6 @@ As a focused on and quick-learning Mobile Developer, I look forward working in a
 <!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&bg_color=ffffff)](https://github.com/taingoo)-->
 
 [![](https://visitcount.itsvg.in/api?id=taingoo&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
