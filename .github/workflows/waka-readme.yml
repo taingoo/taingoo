@@ -10,9 +10,9 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: taingoo/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: "⬜🟨🟩"
           SHOW_TITLE: true
           SHOW_TIME: false
-          LANG_COUNT: 10
