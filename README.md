@@ -22,6 +22,17 @@ As a focused on and quick-learning Mobile Developer, I look forward working in a
 <!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&bg_color=ffffff)](https://github.com/taingoo)-->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 May 2023 - To: 18 May 2023
+
+TypeScript                    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.59 %
+Swift                         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.28 %
+JavaScript                    🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.12 %
+Other                         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.92 %
+Cocoa                         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.40 %
+```
+
 <!--END_SECTION:waka-->
 
 [![](https://visitcount.itsvg.in/api?id=taingoo&icon=5&color=12)](https://visitcount.itsvg.in)
