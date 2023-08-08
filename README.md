@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src='./background.png' width='100%"'>
+  <img src='./background.webp' width='100%"'>
 </p>
 
 <h4>Hi 👋, I'm Tai Ngo</h4>
