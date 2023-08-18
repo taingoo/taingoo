@@ -5,7 +5,7 @@
 </p>
 
 <h4>Hi 👋, I'm Tai Ngo</h4>
-As a focused and quick-learning Mobile Developer, I look forward to working in a professional environment that encourages me to succeed and grow my abilities. I prefer to make a long-term commitment so that I can utilize my skills and knowledge appropriately.
+As a focused and quick-learning developer, I am looking forward to working in a professional environment that encourages me to succeed and grow my abilities. I prefer to make a long-term commitment in order to utilize my skills and knowledge appropriately.
 
 
 ## 💻 Tech Stack
