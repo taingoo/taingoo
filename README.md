@@ -4,8 +4,12 @@
   <img src='./background.webp' width='100%"'>
 </p>
 
-<h4>Hi 👋, I'm Tai Ngo</h4>
-As a focused and quick-learning developer, I am looking forward to working in a professional environment that encourages me to succeed and grow my abilities. I prefer to make a long-term commitment in order to utilize my skills and knowledge appropriately.
+<h4>Hi 👋, I'm Tai Ngo.</h4>
+<p>As a focused and quick-learning developer, I look forward to working in a professional environment that encourages success and growth in my abilities. I prefer to make a long-term commitment to fully utilize my skills and knowledge.</p>
+<p>🏢 I’m currently working at TADA Labs in the Frontend Team.</p>
+<p>🎓 I have <strong>four years of experience in Mobile - Frontend Development and about one year of experience in Backend Development</strong>.</p>
+<p>🎯 I'm currently learning more about DevOps skills.</p>
+<p>📥 Reach me via:<span style="color:blue">dev.taingo@gmail.com</span></p>
 
 
 ## 💻 Tech Stack
