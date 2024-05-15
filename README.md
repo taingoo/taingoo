@@ -33,7 +33,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taingoo&theme=slateorange&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=taingoo&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&show_icons=true)<br/> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taingoo&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taingoo&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&bg_color=ffffff)](https://github.com/taingoo)-->
 
