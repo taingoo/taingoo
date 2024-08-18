@@ -34,7 +34,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taingoo&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&bg_color=ffffff)](https://github.com/taingoo)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&theme=slateorange)](https://github.com/taingoo)
 
 <!--START_SECTION:waka-->
 
