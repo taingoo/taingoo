@@ -1,8 +1,5 @@
 <div align="center">
   <img src="./background-pixel.png" width="100%" />
-  
-  <h1>🌟 Hi, I'm <span style="color:#ff914d;">Tony</span>!</h1>
-  <p><b>Frontend · Mobile · Backend · DevOps (In Progress)</b></p>
 </div>
 
 ## 🚀 About Me
