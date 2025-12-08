@@ -1,17 +1,25 @@
-## 💫 About Me
+<div align="center">
+  <img src="./background-pixel.png" width="100%" />
+  
+  <h1>🌟 Hi, I'm <span style="color:#ff914d;">Tony</span>!</h1>
+  <p><b>Frontend · Mobile · Backend · DevOps (In Progress)</b></p>
+</div>
 
-<p align="center">
-  <img src='./background-pixel.png' width='100%"'>
-</p>
+## 🚀 About Me
 
-<p>Hi, I'm <b>Tony</b>.</p>
-<p>✍️ As a focused and quick-learning developer, I look forward to working in a professional environment that encourages success and fosters the growth of my abilities. I prefer to make a long-term commitment to utilize my skills and knowledge effectively.</p>
-<p>🎓 I have <b>four years of experience in Frontend - Mobile Development and two year of experience in Backend Development</b>.</p>
-<p>🎯 I'm currently learning more about DevOps skills.</p>
-<p>📥 Reach me via: <b></b></p>
+I'm **Tony**, a dedicated developer who loves building high-performance, real-world systems.  
+I enjoy solving complex problems, designing clean architectures, and creating smooth user experiences across **web & mobile**.
+
+- 🔥 **4 years** in Frontend/Mobile · **2 years** in Backend  
+- 🌀 Currently leveling-up my **DevOps skills**  
+- 🎯 Interested in: distributed systems, clean architecture, realtime apps, and modern developer tooling  
+- 🤝 Open to collaboration / long-term product development  
+- 📥 Reach me via:
+
+---
 
 
-## 📌 Tech Stack
+## 🧩 Tech Stack
 #### ▸ Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -36,6 +44,7 @@
 
 <!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=taingoo&layout=compact&theme=slateorange)](https://github.com/taingoo) -->
 
+## ⏱️ Wakatime Activity
 <!--START_SECTION:waka-->
 
 ```txt
